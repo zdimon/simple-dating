@@ -1,0 +1,2 @@
+cd frontend
+ng serve web-app --port 4202
